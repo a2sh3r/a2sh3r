@@ -2,6 +2,6 @@
 
 <h3 align="center">До связи:</h3>
 <p align="center">
-<a href="[VK](https://vk.com/wasagas)" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/VK.svg" alt="" height="30" width="40" /></a>
-<a href="[TG](https://t.me/a2sh3r)" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="" height="30" width="40" /></a>
+<a href="https://vk.com/wasagas" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/VK.svg" alt="" height="30" width="40" /></a>
+<a href="https://t.me/a2sh3r" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="" height="30" width="40" /></a>
 </p>
