@@ -1,4 +1,6 @@
-
+<p align="center">
+  Checkout my other socials
+</p>
 
 
 <p align="center">
